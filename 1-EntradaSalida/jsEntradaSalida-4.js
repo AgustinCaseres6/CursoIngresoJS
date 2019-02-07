@@ -4,6 +4,17 @@
 */
 function Mostar()
 {
+	var dato;
+	dato=prompt("message");
+	document.getElementById("Su Nombre").value;
+	dato = document.getElementById("Su Nombre").value;
+	console.log(dato);
+
+
+
+
+
+
 	
 }
 
